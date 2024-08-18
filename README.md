@@ -7,10 +7,10 @@ HW3-80/100 ***Yu-Gi-Oh***<br/>
 HW4-90/100 ***The Shadow Network***<br/>
 HW5-100/100 ***Hyper Attention is All You Need***<br/>
 # Quizes
-Quiz1-<br/>
-Quiz2-<br/>
-Quiz3-<br/>
-Quiz5-<br/>
+Quiz1-100/100<br/>
+Quiz2-20/100<br/>
+Quiz3-0/100<br/>
+Quiz5-80/100<br/>
 ***Sample OJ Problems can be found on the NTHU OJ system: https://acm.cs.nthu.edu.tw***
 
 # Syllabus
