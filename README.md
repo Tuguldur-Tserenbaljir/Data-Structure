@@ -15,12 +15,12 @@ Quiz5-80/100<br/>
 ***Sample OJ Problems can be found on the NTHU OJ system: https://acm.cs.nthu.edu.tw***
 
 # Syllabus
-Intro. to C++ and Algorithm : Chapter 1
-C++ and Arrays : Chapter 2
-Stacks and Queues : Chapter 3
-linked Lists: Chapter 4
-Trees: Chapter 5
-Graphs: Chapter 6
-Sorting: Chapter 7
-Hashing: Chapter 8
-Advanced Topics: others
+Intro. to C++ and Algorithm : Chapter 1<br/>
+C++ and Arrays : Chapter 2<br/>
+Stacks and Queues : Chapter 3<br/>
+linked Lists: Chapter 4<br/>
+Trees: Chapter 5<br/>
+Graphs: Chapter 6<br/>
+Sorting: Chapter 7<br/>
+Hashing: Chapter 8<br/>
+Advanced Topics: others<br/>
