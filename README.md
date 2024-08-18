@@ -3,14 +3,14 @@
 The objective of this course is to provide a solid training for understanding various data structures. The concepts covered in this course include: - Introduction to Algorithm - Arrays - Stacks - Queues - li<x>nked lists - Trees - Graphs - Sorting - Hashing - And other advanced topics
 # Homeworks
 HW1-100/100 ***Temple Run***<br/>
-HW3-100/100 ***Yu-Gi-Oh***<br/>
-HW4-100/100 ***The Shadow Network***<br/>
+HW3-80/100 ***Yu-Gi-Oh***<br/>
+HW4-90/100 ***The Shadow Network***<br/>
 HW5-100/100 ***Hyper Attention is All You Need***<br/>
 # Quizes
-Quiz1-
-Quiz2-
-Quiz3-
-Quiz4-
+Quiz1-<br/>
+Quiz2-<br/>
+Quiz3-<br/>
+Quiz5-<br/>
 ***Sample OJ Problems can be found on the NTHU OJ system: https://acm.cs.nthu.edu.tw***
 
 # Syllabus
