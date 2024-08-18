@@ -1,4 +1,4 @@
-# Data Structures<br/>
+# NTHU Data Structures<br/>
 ***Spring 2022, CS235100 Data Structures, 陳宜欣(CHEN, YI-SHIN)***<br/>
 The objective of this course is to provide a solid training for understanding various data structures. The concepts covered in this course include: - Introduction to Algorithm - Arrays - Stacks - Queues - li<x>nked lists - Trees - Graphs - Sorting - Hashing - And other advanced topics
 # Homeworks
